@@ -1,0 +1,2 @@
+# 5-Person-Check-Checker-Splitter
+This is my from-scratch programmed calculator app that my friends and I use to divide checks. We take in a dictionary of names paired with the value of what they ordered. Then a function figures out how much of the tax, tip, or delivery fees cost precisely per person and adds that to their subtotal, giving their totals as a list that corresponds to the initial dictionary.
